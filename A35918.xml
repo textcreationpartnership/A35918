@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue betwixt the Devil and the ignoramus doctor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35918</idno>
+            <idno type="STC">Wing D1355</idno>
+            <idno type="STC">ESTC R29360</idno>
+            <idno type="EEBO-CITATION">11080824</idno>
+            <idno type="OCLC">ocm 11080824</idno>
+            <idno type="VID">46286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1422:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue betwixt the Devil and the ignoramus doctor</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: Stained, with loss of print.</note>
+                  <note>The "ignoramus doctor" was Titus Oates--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:46286:1" rendition="simple:additions"/>
+            <head>A Dialogue betwixt the DEVIL AND THE Ignoramus Doctor.</head>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>BEhold from the Infernal Lake I'm come,</l>
+               <l>To fright thy Soul to its Eternal doom:</l>
+               <l>To tell thee, Villain, that thy Reign's expir'd,</l>
+               <l>And now be ſure thou ſhalt no longer hir'd</l>
+               <l>Be by me, no, nor any of the damn'd,</l>
+               <l>To drench in Innocent Bloud this mournful Land.</l>
+               <l>Hence then be gone, and do no more purſue</l>
+               <l>Villanies Hell could ne'er act but by you:</l>
+               <l>Now Heaven ſtops my power, and I thy hand,</l>
+               <l>And now I tell thee, <hi>Doctor,</hi> thou art damn'd.</l>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <l>O Spectre I ſpare a while my dreadful doom!</l>
+               <l>Go back and tell the damn'd, I come, I come,</l>
+               <l>Only let me compleat the Ils I've begun,</l>
+               <l>Then Heaven farewell, and unto You I come.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <lg>
+                  <l>The Bloud o'th' Innocent aloud does cry,</l>
+                  <l>Revenge, Revenge, on curſed Doctor <hi>Ti—</hi>
+                  </l>
+                  <l>No more o'th' Innocent ſhall bleed, nor die.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <lg>
+                  <l>Well, the time's come, the fatal day's at hand,</l>
+                  <l>That I for ever, ever muſt be damn'd:</l>
+                  <l>O curs'd Revenge! what Miſchiefs I have done?</l>
+                  <l>Abjur'd the Father, and Blaſphem'd the Son.</l>
+                  <lg>
+                     <l>The ſacred Spirit of Truth at once have I</l>
+                     <l>Baniſh'd; and that my Vengeance I might buy,</l>
+                     <l>I've caus'd the beſt of Innocents to dye.</l>
+                  </lg>
+                  <l>See where their Ghoſts appear in Purple ray'd,</l>
+                  <l>Victims, by Perjury alone betray'd:</l>
+                  <l>See how they ſhake their Heads, and bleed afreſh,</l>
+                  <l>Their wounds gape wide in their new murder'd fleſh;</l>
+                  <l>And theſe moſt frightful Viſions come, 'cauſe I</l>
+                  <l>Th' bloudy Villanous Murderer ſtand by.</l>
+                  <l>'Tis true, that I the cruel Murderer am,</l>
+                  <l>And thouſands more by Perjury to trepan</l>
+                  <l>I ſolemnly did vow, and often ſwear,</l>
+                  <l>And none t' eſcape, from th' Peaſant to the Peer;</l>
+                  <l>Nay Sacred Prelates, Princes, Queens and Kings,</l>
+                  <l>Should have made up my Bloudy Offerings.</l>
+                  <pb n="2" facs="tcp:46286:2" rendition="simple:additions"/>
+                  <l> Ten Thouſand more of Innocents had dy'd,</l>
+                  <l>'Cauſe I King, Queen, and Duke had Sacrific'd:</l>
+                  <l>Cities and Towns I'd Fir'd, if not withſtood,</l>
+                  <l>And quench'd the Flames with Innocent Blood.</l>
+                  <l>Let me but live in this world three years more,</l>
+                  <l>This Iſland then ſhall ſwim in Chriſtian gore;</l>
+                  <l>I'le ſubvert Governments, and murder Kings,</l>
+                  <l>Sow diſcord among Friends; I'le do ſuch things</l>
+                  <l>Shall make the World believe there is not that</l>
+                  <l>Villanous thing I have not power to act:</l>
+                  <l>I'le make the World believe (let me but ſtay)</l>
+                  <l>That Light is Darkneſs, and that Night is Day;</l>
+                  <l>That I the Saviour of the Nation am,</l>
+                  <l>And that Chriſt was of no avail to Man;</l>
+                  <l>Then I the Sacred Goſpels will deſtroy,</l>
+                  <l>Swear they'r but fictious Stories, and a Lye;</l>
+                  <l>Perſwade them that the Bible's but a Farce,</l>
+                  <l>No more to be eſteem'd then is my A—</l>
+                  <l>So I'le improve the Art of Perjury,</l>
+                  <l>That none who are not skill'd in Villany</l>
+                  <l>Shall live; thus will I fit this Iſle for Hell,</l>
+                  <l>And then adieu the World, and Heaven farewell.</l>
+                  <lg>
+                     <l>Thus I a Learned <hi>Doctor</hi> will commence,</l>
+                     <l>And by th' People be ador'd for Nonſence,</l>
+                     <l>And with Sedition I their Souls will influence.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>Peace thou prophane wretch, hold Villain hold.</l>
+               <l>For know with Heaven and Earth thou art too bold,</l>
+               <l>And I muſt tell thee, another Winter old</l>
+               <l>Thou ſhalt not be, thy Life and Soul are ſold:</l>
+               <l>When flat on th'Altar Thou thy ſelf didſt lay,</l>
+               <l>Remember that thou gav'ſt thy Soul away</l>
+               <l>To me; and ſwor'ſt for ever thoud'ſt be mine,</l>
+               <l>Mightſt thou but compaſs thy Helliſh deſign;</l>
+               <l>To imbrue thy hands in Innocent blood,</l>
+               <l>And murder all who had the face of good:</l>
+               <l>Devils and Hell in this Thou haſt outdone,</l>
+               <l>By thy damn'd Perjury ith' face oth' Sun.</l>
+               <l>Hence then be gone to Hell, away, away,</l>
+               <l>For in this place thou ſhalt no longer ſtay.</l>
+               <stage>[Spoken by an old Acquaintance.]</stage>
+               <q>
+                  <l>Why how now Doctor, vaniſh'd, fled and gone,</l>
+                  <l>What none but Monſieur Devil and You alone?</l>
+                  <l>Are all your Projects come to this damn'd end,</l>
+                  <l>Thus to be hamper'd, and ridden by a Fiend?</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>npitied lye; blaſpheme and groan thy laſt,</l>
+                  <l>Belch forth thy unhallow'd Soul, and blaſt</l>
+                  <l>Hell it ſelf, with thy unſanctify'd breath,</l>
+                  <l>And groveling ith' ſhades of Eternal death,</l>
+                  <l>I leave thee. Ha, ha, ha, ha, poor Doctor,</l>
+                  <l>Good Night little good Mr. Devil's Doctor.</l>
+               </q>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46286:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
